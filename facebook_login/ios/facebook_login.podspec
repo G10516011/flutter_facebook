@@ -20,7 +20,7 @@ Flutter plugin for Facebook Login.
 
   s.static_framework = true
   s.subspec 'vendor' do |sp|
-    sp.dependency 'FBSDKLoginKit', '~> 9.0.1'
+    sp.dependency 'FBSDKLoginKit', '~> 9.1.0'
   end
   
   # Flutter.framework does not contain a i386 slice.
